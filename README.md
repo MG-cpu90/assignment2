@@ -42,6 +42,11 @@ The layout is designed to shift objects so that the website is still legible if 
     * A button
 
 
+## Usage
+
+In order to run the application, open the "index.html" file inside the root directory in the browser window.
+
+
 ## Difficulties and Shortcomings
 
 There were some difficulties with this assignment. For example, seeing as I was using Bootstrap exclusively, I was unable to find out how to change fonts using Bootstrap, or how to make a background image, or objects overlape over one another. I also struggled to make the text wrap perfectly in the "About" page.
