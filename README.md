@@ -44,7 +44,8 @@ The layout is designed to shift objects so that the website is still legible if 
 
 ## Usage
 
-In order to run the application, open the "index.html" file inside the project root directory in the browser window.
+* In order to run the application, first clone the GitHub repository onto your local device
+* Then, open the "index.html" file inside the project root directory in the browser window.
 
 
 ## Difficulties and Shortcomings
